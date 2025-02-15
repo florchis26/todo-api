@@ -40,6 +40,10 @@ INSTALLED_APPS = [
 
 # Local Apps
     'todos',
+
+# app de terceros
+
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
